@@ -160,10 +160,4 @@ anchor test
 
 ---
 
-## Front-end
-
-🔗 [hypesol.netlify.app](https://hypesol.netlify.app/)
-
----
-
 *Construído na Solana Ideathon 2026 — porque sua presença merece ser eterna.* ⚡
